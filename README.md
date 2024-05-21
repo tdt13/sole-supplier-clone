@@ -1,3 +1,8 @@
+#Website Clone
+
+This project aims to clone a trainer website, this was part of a task in the Hyperion Dev bootcampt to learn React functional components.
+In addition to learning React I also implemented styling using Tailwind CSS.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
