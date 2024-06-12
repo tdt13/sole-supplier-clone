@@ -14,7 +14,7 @@ This is a React project for my fullstack webdev bootcamp where I was tasked with
 
 ## Demo
 
-Insert gif or link to demo
+![App Demo](https://github.com/tdt13/sole-supplier-clone/blob/master/trainer_site_clone.gif?raw=true)
 
 
 ## Installation
@@ -29,7 +29,7 @@ Install sole-supplier-clone with npm
     
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/tdt13/sole-supplier-clone/blob/master/App_screenshot_1.PNG?raw=true)
 
 
 ## Tech Stack
