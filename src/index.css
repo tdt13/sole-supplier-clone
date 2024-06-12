@@ -6,45 +6,44 @@
 @tailwind components;
 @tailwind utilities;
 
-
 .navbar-text {
-  @apply text-white font-assistant no-underline font-bold px-[16px] py-[10px]  hover:bg-zinc-800 hover:rounded-md ;
+  @apply text-white font-assistant no-underline font-bold px-[16px] py-[10px]  hover:bg-zinc-800 hover:rounded-md;
 }
 .hero-heading {
-  @apply text-[#2f2f33] font-assistant text-3xl ;
+  @apply text-[#2f2f33] font-assistant text-3xl;
 }
 .hero-paragraph {
-  @apply text-[#2f2f33] font-assistant text-sm ;
+  @apply text-[#2f2f33] font-assistant text-sm;
 }
 .hero-subheading {
-  @apply text-[#2f2f33] font-assistant text-lg ;
+  @apply text-[#2f2f33] font-assistant text-lg;
 }
 .hero-subparagraph {
-  @apply text-black font-assistant text-sm ;
+  @apply text-black font-assistant text-sm;
 }
 .blog-title {
-  @apply text-black font-assistant text-base ;
+  @apply text-black font-assistant text-base;
 }
 .blog-content {
-  @apply text-[#949495] font-assistant text-sm ;
+  @apply text-[#949495] font-assistant text-sm;
 }
 .blog-author {
-  @apply text-[#2f2f33] font-assistant text-sm ;
+  @apply text-[#2f2f33] font-assistant text-sm;
 }
 .main-title {
-  @apply text-black font-assistant text-base ;
+  @apply text-black font-assistant text-base;
 }
 .main-arrival {
-  @apply text-[#2f2f33] font-assistant text-sm ;
+  @apply text-[#2f2f33] font-assistant text-sm;
 }
-.footer-list{
-@apply font-assistant text-sm text-[#ffff]
+.footer-list {
+  @apply font-assistant text-sm text-[#ffff];
 }
-.footer-h3{
-@apply font-assistant text-sm text-[#b7b7b8]
+.footer-h3 {
+  @apply font-assistant text-sm text-[#b7b7b8];
 }
-.footer-registry{
-@apply font-assistant text-[12px] text-[#b7b7b8]
+.footer-registry {
+  @apply font-assistant text-[12px] text-[#b7b7b8];
 }
 
 body {
