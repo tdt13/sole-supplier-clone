@@ -47,4 +47,13 @@ Install sole-supplier-clone with npm
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-turner-university-of-leeds-crystallisation/)
 
+## Authors
+
+- [TomTurner](https://www.github.com/tdt13)
+
+## Acknowledgements
+
+ - [Sole Supplier Site - Inspiration for Project]([https://awesomeopensource.com/project/elangosundar/awesome-README-templates](https://thesolesupplier.co.uk/))
+
+
 
