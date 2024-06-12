@@ -53,7 +53,7 @@ Install sole-supplier-clone with npm
 
 ## Acknowledgements
 
- - [Sole Supplier Site - Inspiration for Project](https://awesomeopensource.com/project/elangosundar/awesome-README-templates](https://thesolesupplier.co.uk/)
+ - [Sole Supplier Site - Inspiration for Project](https://thesolesupplier.co.uk/)
 
 
 
